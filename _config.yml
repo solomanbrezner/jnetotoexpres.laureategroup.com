@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 remote_theme: chriskyfung/amp-affiliately-jekyll-theme
-name: "JNETOTO"
-title: "Situs Togel dan Slot Online Gacor Terbaru"
+name: "Situs Togel"
+title: "Situs Bandar Toto Togel Online Hadiah 4D 10 Juta"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  daftar situs judi togel dan slot online yang menyediakan berbagai macam permainan yang gampang menang dengan tingkat kemenangan hingga 98%
+  situs bandar togel online hadiah 4d 10 juta terpercaya di Indonesia menyediakan pasaran togel singapore, hongkong, sydney, toto macau bet 100 perak
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jnetotoexpres.laureategroup.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 'https://jnecity.com/assets/img/alt/favicon.png'
@@ -47,7 +47,7 @@ defaults:
 # Copyright Start Year
 copyright: 
   prefix: 
-  ownership: JNETOTO
+  ownership: Situs Togel
   link: /
 
 plugins:
